@@ -1,0 +1,29 @@
+[33mcommit 5002bb8b3f8022a055649d134ecb1ea159618279[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Leonardo Gasali <leonardorodrigog@gmail.com>
+Date:   Thu Dec 21 20:30:15 2023 -0300
+
+    Added files1 and files2.py
+
+[33mcommit 645bad488ad38eeccc2793b5a9f5f5f0ec637b2d[m
+Author: Leonardo Gasali <leonardorodrigog@gmail.com>
+Date:   Thu Dec 21 20:05:49 2023 -0300
+
+    Added aditional info
+
+[33mcommit c1e63f293252f848c74acf2e62e236fa0640fa41[m[33m ([m[1;33mtag: [m[1;33mversion1[m[33m, [m[1;33mtag: [m[1;33mv2.2.1[m[33m, [m[1;33mtag: [m[1;33mv2.2[m[33m, [m[1;33mtag: [m[1;33mv1.1[m[33m)[m
+Author: Leonardo Gasali <leonardorodrigog@gmail.com>
+Date:   Thu Dec 21 01:36:50 2023 -0300
+
+    Some descriptive message for the commit
+
+[33mcommit 50ead92a2c5dd42dcb5e675739d2d6c97793e243[m
+Author: Leonardo Gasali <leonardorodrigog@gmail.com>
+Date:   Thu Dec 21 01:24:06 2023 -0300
+
+    Added greetings file
+
+[33mcommit 6805730553889b39b2ef888a2a57e91000ba0432[m
+Author: Leonardo Gasali <leonardorodrigog@gmail.com>
+Date:   Wed Dec 20 19:16:56 2023 -0300
+
+    My first commit using GIT!

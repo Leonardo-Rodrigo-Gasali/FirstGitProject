@@ -1,0 +1,1 @@
+print("Test 2 git rm")
